@@ -11,4 +11,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis convallis elementu
 
 [My First URL :](https://www.facebook.com)
 
-<img src=images/tele.jpg>
+! [Guitar] <img src=images/tele.jpg>
